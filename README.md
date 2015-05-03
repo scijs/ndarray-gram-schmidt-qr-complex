@@ -43,3 +43,4 @@ Then the product A * R is approximately equal to the original matrix.
 
 ## Credits
 (c) 2015 Ricky Reusser. MIT License
+
