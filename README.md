@@ -1,6 +1,6 @@
 # ndarray-gram-schmidt-qr-complex
 
-[![Build Status](https://travis-ci.org/rreusser/ndarray-gram-schmidt-qr-complex.svg?branch=master)](https://travis-ci.org/rreusser/ndarray-gram-schmidt-qr-complex) [![npm version](https://badge.fury.io/js/ndarray-gram-schmidt-qr-complex.svg)](http://badge.fury.io/js/ndarray-gram-schmidt-qr-complex)
+[![Build Status](https://travis-ci.org/scijs/ndarray-gram-schmidt-qr-complex.svg?branch=master)](https://travis-ci.org/scijs/ndarray-gram-schmidt-qr-complex) [![npm version](https://badge.fury.io/js/ndarray-gram-schmidt-qr-complex.svg)](http://badge.fury.io/js/ndarray-gram-schmidt-qr-complex)
 
 A module for calculating the in-place [QR decomposition of a complex matrix](http://en.wikipedia.org/wiki/QR_decomposition)
 
