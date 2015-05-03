@@ -26,12 +26,9 @@
     "jshint": "*",
     "mocha": "*",
     "ndarray": "^1.0.16",
-    "ndarray-complex": "^1.0.2",
-    "ndarray-scratch": "^1.1.1",
-    "ndgemm": "0.0.0"
+    "ndarray-scratch": "^1.1.1"
   },
   "dependencies": {
-    "cwise": "^1.0.5",
     "ndarray-blas-level1-complex": "^1.0.1"
   }
 }

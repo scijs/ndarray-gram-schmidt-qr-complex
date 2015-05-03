@@ -4,8 +4,6 @@ var qr = require('../gram-schmidt.js'),
     assert = require('chai').assert,
     ndarray = require('ndarray'),
     pool = require('ndarray-scratch'),
-    gemm = require("ndgemm"),
-    ops = require('ndarray-complex'),
     blas = require('ndarray-blas-level1-complex');
 
 

@@ -2,8 +2,7 @@
 
 var assert = require('assert');
 
-var blas = require('ndarray-blas-level1-complex'),
-    cwise = require('cwise');
+var blas = require('ndarray-blas-level1-complex');
 
 module.exports = function modifiedGramSchmidtQR( A_r, A_i, R_r, R_i ) {
 
