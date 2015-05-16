@@ -1,6 +1,6 @@
 'use strict'
 
-var blas = require('../ndarray-blas-level1-complex')
+var blas = require('ndarray-blas-level1-complex')
 
 function modifiedGramSchmidtQR( A_r, A_i, R_r, R_i ) {
 

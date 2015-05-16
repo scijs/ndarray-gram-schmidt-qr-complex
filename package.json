@@ -1,6 +1,6 @@
 {
   "name": "ndarray-gram-schmidt-qr-complex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modified Gram-Schmidt Algorithm for QR Factorization of complex matrices",
   "main": "index.js",
   "author": "Ricky Reusser",
@@ -31,6 +31,6 @@
     "ndarray-tests": "^1.1.4"
   },
   "dependencies": {
-    "ndarray-blas-level1-complex": "^1.0.1"
+    "ndarray-blas-level1-complex": "^1.0.3"
   }
 }
